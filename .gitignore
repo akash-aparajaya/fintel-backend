@@ -1,0 +1,29 @@
+# node_modules
+/node_modules/
+
+# logs
+/logs
+/*.log
+
+# database files
+/db.sqlite
+/db.json
+
+# env files
+.env
+.env.local
+
+# os files
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# other files
+coverage
+debug.log
+testem.log
+tmp
+yarn-debug.log
+yarn-error.log
